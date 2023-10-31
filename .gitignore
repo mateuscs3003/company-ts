@@ -1,0 +1,8 @@
+# Bibliotecas
+/node_modules
+
+# Variáveis de ambiente
+.env
+
+# Migrações do TypeORM
+/src/migrations
